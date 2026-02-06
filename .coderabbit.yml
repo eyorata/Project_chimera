@@ -1,0 +1,17 @@
+reviews:
+  high_level_summary: true
+  review_status: true
+
+  instructions: |
+    This repository follows Spec Driven Development (SDD).
+
+    Review priorities:
+    1. Spec alignment: code must match specs/functional.md and specs/technical.md
+    2. Security: no API keys or secrets in code
+    3. Maintainability: functions should be modular and testable
+    4. Agent safety: publishing skills must include human approval checkpoints
+
+    If implementation exists without referencing specs/, request changes.
+
+  auto_review:
+    enabled: true

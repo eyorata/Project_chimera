@@ -1,0 +1,23 @@
+# Project Chimera - Cursor Rules
+
+## Project Context
+This is Project Chimera, an autonomous influencer system.
+
+## Prime Directive
+NEVER generate code without checking specs/ first.
+
+## Traceability Rules
+All code must map back to:
+- specs/functional.md
+- specs/technical.md
+
+## Workflow
+Before coding:
+1. Read specs/
+2. Explain the plan
+3. List files to modify
+4. Then implement
+
+## Safety Requirements
+Publishing actions must require explicit approval checkpoints.
+Never hardcode API keys.

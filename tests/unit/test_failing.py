@@ -96,4 +96,3 @@ def test_skill_fetch_trends_contract():
         assert isinstance(item["tags"], list)
         for t in item["tags"]:
             assert isinstance(t, str)
-

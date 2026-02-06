@@ -1,3 +1,4 @@
+
 """Integration test placeholder for Project Chimera.
 
 This is a simple passing placeholder so the integration folder exists.
